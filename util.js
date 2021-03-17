@@ -34,6 +34,3 @@ exports.checkAndGenerate = (name, age) => {
 
 exports.generateText = generateText;
 exports.validateInput = validateInput;
-
-
-
